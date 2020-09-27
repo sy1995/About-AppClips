@@ -44,7 +44,7 @@ We provide a website **[AppClips Hub](https://appclipshub.com/)** to show your a
 
 #### 📹 WWDC videos
 
-- **[All Video]([https://developer.apple.com/videos/all-videos/?q=app%20clips](https://developer.apple.com/videos/all-videos/?q=app clips)**
+- **[All Video](https://developer.apple.com/videos/all-videos/?q=app clips)**
 
 
 
