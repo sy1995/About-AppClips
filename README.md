@@ -61,12 +61,15 @@ We provide a website **[AppClips Hub](https://appclipshub.com/)** to show your a
 #### 📰 Articles
 
 * **[Tracking App Clips in iOS 14](https://blog.d204n6.com/2020/09/ios-14-tracking-app-clips-in-ios-14.html)** by [Christopher Vance](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fblog.d204n6.com%2F2020%2F09%2Fios-14-tracking-app-clips-in-ios-14.html&ref_src=twsrc%5Etfw&region=follow_link&screen_name=cscottvance&tw_p=followbutton)
+* **[探秘 App Clips](https://mp.weixin.qq.com/s/HtWQONDrOqPMR-MSqn2-eg)** by 搜狐技术产品
+
 
 #### 🔨 Xcode Extensions
 
 #### 📦 Repositories
 
 #### 🖥 Videos
+* **[iOS14 轻App开发 全球首发](https://www.bilibili.com/video/BV1ok4y1k7co)** by [小波说](https://space.bilibili.com/272754018)
 
 #### 🔗 Websites
 
